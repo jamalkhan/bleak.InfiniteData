@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Jamal Khan</Authors>
+    <Company>bleak LLC</Company>
+    <Copyright>bleak LLC</Copyright>
+  </PropertyGroup>
+
+</Project>
